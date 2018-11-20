@@ -1,4 +1,6 @@
 
+link to this notebook in nbviewer: [Intro to Neural Nets: 50 Steps](https://nbviewer.jupyter.org/github/Asrst/udacity-pytorch-intro-to-neural-nets-notes/blob/master/01_Intro%20Neural%20Nets%20with%20Numpy.ipynb)
+
 
 ```python
 # !git clone https://github.com/udacity/deep-learning-v2-pytorch.git
