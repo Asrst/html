@@ -46,7 +46,7 @@ Why are neural nets often called deep neural networks? In General, each neuron h
 Now lets work with simple classification problem to decide whether a given student gets admitted into university or not, given
 two features - previous grade and entrance test score.
 
-![abc.png](attachment:image.png)
+![output.png](attachment:https://github.com/Asrst/udacity-pytorch-intro-to-neural-nets-notes/blob/master/output_23_1.png?raw=true)
 
 from the image it is clear that, it can be done easily with line separting the two classes - which can correctly prediction the classification in 90% of the cases. There are very few mis-classification but still a good case to slove using a simple staright line. Here, we are generalizing the data and finding a straight line which can sepaarte them. Now, the real question is how to find that line which can separate the classes for the given data points as shown in the figure.
 
